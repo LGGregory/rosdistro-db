@@ -43,4 +43,4 @@ graphicsmagick:
 liblapack-dev:
   windows:
     vcpkg:
-      packages: [clapack, openblas]
+      packages: [lapack-reference, openblas]
