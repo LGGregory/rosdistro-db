@@ -159,7 +159,7 @@ libgpgme-dev:
   windows: []
 libjpeg:
   windows: [libjpeg-turbo]
-liblapack-dev:
+#liblapack-dev:
   windows: [clapack, openblas]
 libogg:
   windows: [libogg]
