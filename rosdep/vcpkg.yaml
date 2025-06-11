@@ -40,6 +40,10 @@ graphicsmagick:
   windows:
     vcpkg:
       packages: [graphicsmagick]
+liblapack-dev:
+  windows:
+    vcpkg:
+      [clapack, openblas]
 openblas:
   windows:
     vcpkg:
